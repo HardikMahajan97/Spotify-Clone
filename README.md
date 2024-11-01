@@ -1,3 +1,8 @@
 # Spotify-Clone
-Hello, I am Hardik Mahajan, I am a newbie in the filed of web development and just starting off.
-I have tried my hands on some real world applied CSS through this project-Spotify Clone.
+
+## Introduction
+Hello everyone! This project is developed to gain practical learning of HTML5 and CSS. This project was not aimed to build functionalities, but only the UI elements using the basic tech stack.
+
+## Tech Stack
+1. HTML5
+2. CSS
